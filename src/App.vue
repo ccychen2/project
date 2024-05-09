@@ -5,6 +5,8 @@
 </template>
 
 <script setup lang="ts">
+
+
 const str = "i fuck you";
 
 for(let i=0; i <100;i++){
